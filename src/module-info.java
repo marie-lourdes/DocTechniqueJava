@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author marie
+ *
+ */
+module DocumentationTechniqueJava {
+}
